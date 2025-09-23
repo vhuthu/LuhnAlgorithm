@@ -14,7 +14,7 @@ dependencyResolutionManagement {
         maven { url = uri("https://jitpack.io") }
     }
 }
-
+<a href="https://static.scientificamerican.com/dam/m/4781be6fb8440fb0/original/luhn-algorithm_graphic_d2_TEXT.png?m=1755011656.73" target = "_blank">
 
 Then, in your build.gradle (app-level):
 
